@@ -1,0 +1,2 @@
+# File contains list of bloatware, all unuseful apk's must be placed here with path,
+# like '/system/app/Lightbulb.apk' or '/system/priv-app/ParanoidOTA.apk' 
