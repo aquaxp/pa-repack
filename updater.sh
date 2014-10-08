@@ -34,7 +34,7 @@ rm_apps(){
 replace_boot_anim(){
     if [ -s ./bootanimation.zip ]
     then
-        echo "Replacing boot animation to classic nexus..."
+        echo "Replacing boot animation..."
         cp ./bootanimation.zip ./$1/system/media/bootanimation.zip
     else
         echo "Boot animation not found. Continue..."
